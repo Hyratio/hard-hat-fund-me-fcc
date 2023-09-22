@@ -1,0 +1,5 @@
+Unit tests are done locally and they test small portions of the contract
+-Local hardhat
+-Forked hardhat <- talk about this in a later section
+
+Stagin tests can be made in a testnet and they test teh contract in a whole
